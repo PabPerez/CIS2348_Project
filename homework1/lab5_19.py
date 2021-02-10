@@ -1,3 +1,4 @@
+#Pablo Perez, PSID: 1770045
 prices = {"Oil change": 35, "Tire rotation": 19, "Car wash": 7, "Car wax": 12}
 print("Davy's auto shop services")
 print("Oil change -- $35")
